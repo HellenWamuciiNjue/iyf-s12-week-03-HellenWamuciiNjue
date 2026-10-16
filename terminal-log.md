@@ -35,3 +35,6 @@
 | **29** | `git remote add origin https://github.com/HellenWamuciiNjue/iyf-s12-week-03-HellenWamuciiNjue.git` | Link local repo to GitHub | Remote link established | None | Success |
 | **30** | `git push -u origin main` | Push local commits to GitHub | `To https://github.com/HellenWamuciiNjue/iyf-s12-week-03-HellenWamuciiNjue.git * [new branch] main -> main` | None | Successfully pushed local repository to GitHub |
 | **31** | `nano terminal-log.md` | Edit log file | Opened Nano text editor | None | Documented terminal history |
+| **32** | `git checkout -b feature/daily-challenges` | Create and switch to feature branch | Switched to a new branch 'feature/daily-challenges' | None | Isolated feature development from main branch |
+| **33** | `touch daily-challenges/day-01.md` | Create Day 1 challenge markdown file | File created | None | Created file inside daily-challenges folder |
+| **34** | `nano daily-challenges/day-01.md` | Edit Day 1 challenge content | Documented Day 1 challenge reflection | None | Saved reflection in daily-challenges/day-01.md |
