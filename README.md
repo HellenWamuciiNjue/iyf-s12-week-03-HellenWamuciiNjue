@@ -14,5 +14,5 @@ This repository tracks my hands-on mastery of advanced Git operations, industria
 
 ## Collaboration Log
 * **Pair Repository:** [Link your pair repository here once created]
-* **My Peer Review Comment:** [Link your review comment link here]
+* **My Peer Review Comment:** [comment link](https://github.com/Stephen-Dev254/iyf-s12-week-03-pair-Stephen-Dev254/pull/6#issue-6127990180)
 * **Resolved Merge Conflict PR:** [Link the resolved merge conflict Pull Request link here]
