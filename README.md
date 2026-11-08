@@ -13,6 +13,12 @@ This repository tracks my hands-on mastery of advanced Git operations, industria
 * **Cross-Environment Constraints:** Managed unexpected machine-specific terminal configuration blocks by adapting pipelines directly into cloud-hosted web tracking interfaces to keep progress unblocked.
 
 ## Collaboration Log
+<<<<<<< HEAD
 * **Pair Repository:** [Link your pair repository here once created]
 * **My Peer Review Comment:** [comment link](https://github.com/Stephen-Dev254/iyf-s12-week-03-pair-Stephen-Dev254/pull/6#issue-6127990180)
 * **Resolved Merge Conflict PR:** [Link the resolved merge conflict Pull Request link here]
+=======
+* **Pair Repository:** https://github.com/Stephen-Dev254/iyf-s12-week-03-pair-Stephen-Dev254
+* **My Peer Review Comment:** https://github.com/Stephen-Dev254/iyf-s12-week-03-pair-Stephen-Dev254/pull/6#issuecomment-2462843811
+* **Resolved Merge Conflict PR:** https://github.com/Stephen-Dev254/iyf-s12-week-03-pair-Stephen-Dev254/pull/7
+>>>>>>> 4e2e796 (docs: complete all 5 daily challenges and finalize collaboration links)
